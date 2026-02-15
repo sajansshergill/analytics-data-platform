@@ -1,0 +1,4 @@
+load_from:
+  - python_file:
+      relative_path: orchestration/dagster_pipeline.py
+      attribute: saas_analytics_job
